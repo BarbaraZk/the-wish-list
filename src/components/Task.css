@@ -1,0 +1,15 @@
+.active,
+.done {
+    margin: 5px 10px;
+}
+.activeGroup{
+    margin-right: 10px;
+    padding: 5px 0;
+}
+
+.btnTask {
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px;  
+}
+

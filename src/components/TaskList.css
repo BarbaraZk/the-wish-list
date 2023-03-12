@@ -1,0 +1,14 @@
+.toDoTitle, .doneTitle {
+    min-height: 20vh;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 100px;
+}
+.toDo, .done {
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.taskList{
+    min-height: 100vh;
+}
